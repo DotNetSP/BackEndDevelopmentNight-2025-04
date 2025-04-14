@@ -7,6 +7,19 @@ Organizadores:
 
 Número de participantes: **30 pessoas**
 
+---
+
+Apresentação que aconteceu durante o evento:
+* **.NET 10: o que esperar desta nova versão?**
+
+Palestrantes:
+- **Renato Groffe (Microsoft MVP, Docker Captain, MTAC)**
+- **Thiago Bertuzzi (Microsoft MVP)**
+
+Tecnologias e tópicos abordados: **.NET 10, C# 14, ASP.NET Core, MAUI, WPF, Windows Forms, Azure DevOps, GitHub Actions, macOS, iOS, Docker, Kubernetes, Microsoft Azure, Testcontainers, Terraform, Python, Java, Node.js, Developer Security...**
+
+---
+
 Painel que aconteceu durante o evento:
 * **Desenvolvimento Back-End em 2025 - tendências, tecnologias, mercado, dicas de carreira e muito mais!**
 
