@@ -16,7 +16,7 @@ Palestrantes:
 - **Renato Groffe (Microsoft MVP, Docker Captain, MTAC)**
 - **Thiago Bertuzzi (Microsoft MVP)**
 
-Tecnologias e tópicos abordados: **.NET 10, C# 14, ASP.NET Core, MAUI, WPF, Windows Forms, Azure DevOps, GitHub Actions, macOS, iOS, Docker, Kubernetes, Microsoft Azure, Testcontainers, Terraform, Python, Java, Node.js, Developer Security...**
+Tecnologias e tópicos abordados: **.NET 10, C# 14, ASP.NET Core, MAUI, WPF, Windows Forms, Azure DevOps, GitHub Actions, macOS, iOS, Linux, Docker, Microsoft Azure...**
 
 ---
 
@@ -30,7 +30,9 @@ Participantes do Painel:
 - **Milton Camara Gomes (Microsoft MVP, MTAC)**
 - **Vinicius Moura (Microsoft MVP)**
 
-Tecnologias e tópicos abordados: **.NET 10, C# 14, ASP.NET Core, MAUI, WPF, Windows Forms, Azure DevOps, GitHub Actions, macOS, iOS, Docker, Kubernetes, Microsoft Azure, Testcontainers, Terraform, Python, Java, Node.js, Developer Security...**
+Tecnologias e tópicos abordados: **.NET 10, C# 14, ASP.NET Core, Azure DevOps, GitHub Actions, Linux, Docker, Kubernetes, Microsoft Azure, Testcontainers, Terraform, Python, Java, Node.js, Developer Security...**
+
+---
 
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
