@@ -30,7 +30,7 @@ Participantes do Painel:
 - **Milton Camara Gomes (Microsoft MVP, MTAC)**
 - **Vinicius Moura (Microsoft MVP)**
 
-Tecnologias e tópicos abordados: **.NET, C#, ASP.NET Core, Azure DevOps, GitHub Actions, Linux, Docker, Kubernetes, Microsoft Azure, Testcontainers, Terraform, Python, Java, Node.js, Developer Security...**
+Tecnologias e tópicos abordados: **.NET, C#, ASP.NET Core, Azure DevOps, GitHub Actions, Linux, Docker, Kubernetes, Microsoft Azure, Testcontainers, Terraform, Python, Java, Node.js, Developer Security, Microservices...**
 
 ---
 
