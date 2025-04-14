@@ -50,6 +50,12 @@ Deixamos aqui nossos agradecimentos ao Victor Temple e à Larissa Cyganski pela 
 
 ![Banner do evento](img/banner.jpg)
 
-![Painel - Tomada 1](img/ai-01.jpg)
+![Apresentação .NET 10 Tomada 1](img/b-03.jpg)
 
-![Painel - Tomada 2](img/ai-06.jpg)
+![Apresentação .NET 10 Tomada 2](img/b-05.jpg)
+
+![Painel - Tomada 1](img/b-13.jpg)
+
+![Painel - Tomada 2](img/b-20.jpg)
+
+![Painel - Tomada 3](img/b-24.jpg)
